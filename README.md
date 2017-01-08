@@ -19,3 +19,5 @@ There's a less clear link between survival and columns like Embarked (maybe ther
 This step is generally known as acquiring domain knowledge, and it fairly important to most machine learning tasks. We're looking to engineer the features so that we maximize the information we have about what we're trying to predict.
 
 I'll be using python 3, the pandas library, and scikit-learn to analyze our data and create a submission.
+
+I have included the 2 submissions that I had made to Kaggle and my score in the Kaggle Leaderboards for this challenge.
